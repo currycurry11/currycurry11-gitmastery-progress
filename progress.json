@@ -41,14 +41,5 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786687218.856078,
-    "completed_at": 1786687221.848155,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
   }
 ]
