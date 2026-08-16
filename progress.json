@@ -9,10 +9,37 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786690416.15024,
+    "completed_at": 1786690419.802098,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786687951.272875,
+    "completed_at": 1786687952.710735,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786684204.016119,
     "completed_at": 1786684205.512625,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786688310.525345,
+    "completed_at": 1786688312.601336,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
     "status": "Completed"
   },
   {
@@ -21,6 +48,15 @@
     "completed_at": 1786683358.672708,
     "comments": [
       "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786869434.384684,
+    "completed_at": 1786869437.271612,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -39,33 +75,6 @@
     "completed_at": 1786681613.748662,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786687951.272875,
-    "completed_at": 1786687952.710735,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786688310.525345,
-    "completed_at": 1786688312.601336,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786690416.15024,
-    "completed_at": 1786690419.802098,
-    "comments": [
-      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
