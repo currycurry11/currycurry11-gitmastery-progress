@@ -149,5 +149,14 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787060448.417496,
+    "completed_at": 1787060452.071063,
+    "comments": [
+      "Missing question In February, who was replaced in the Wednesday duty roster? in answers file."
+    ],
+    "status": "Error"
   }
 ]
