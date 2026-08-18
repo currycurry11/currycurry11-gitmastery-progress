@@ -1,5 +1,50 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1787058223.902453,
+    "completed_at": 1787058228.635603,
+    "comments": [
+      "The origin remote does not point to your fork!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787058370.522525,
+    "completed_at": 1787058374.878617,
+    "comments": [
+      "The upstream remote does not point to the original repository!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787058428.478677,
+    "completed_at": 1787058431.336774,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787059139.957358,
+    "completed_at": 1787059141.8144,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787047421.94079,
+    "completed_at": 1787047424.690234,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786683610.048515,
     "completed_at": 1786683611.5951,
@@ -39,6 +84,24 @@
     "completed_at": 1786688312.601336,
     "comments": [
       "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787046977.032961,
+    "completed_at": 1787047084.531244,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787047134.611751,
+    "completed_at": 1787047145.987783,
+    "comments": [
+      "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
   },
