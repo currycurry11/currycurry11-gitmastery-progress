@@ -1,5 +1,14 @@
 [
   {
+    "exercise_name": "branch-previous",
+    "started_at": 1787281210.77873,
+    "completed_at": 1787281212.672939,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "clone-repo",
     "started_at": 1787058223.902453,
     "completed_at": 1787058228.635603,
@@ -21,6 +30,15 @@
     "exercise_name": "clone-repo",
     "started_at": 1787058428.478677,
     "completed_at": 1787058431.336774,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787059833.317652,
+    "completed_at": 1787059836.113742,
     "comments": [
       "Great work creating a clone of a fork from Github!"
     ],
@@ -106,6 +124,60 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787064078.589486,
+    "completed_at": 1787064079.98338,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787063185.22818,
+    "completed_at": 1787063188.234469,
+    "comments": [
+      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787063214.057017,
+    "completed_at": 1787063215.45969,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787065826.982078,
+    "completed_at": 1787065828.561966,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787066010.684592,
+    "completed_at": 1787066012.172881,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1787280443.332213,
+    "completed_at": 1787280445.221492,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1786683357.201332,
     "completed_at": 1786683358.672708,
@@ -124,6 +196,33 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "tags-add",
+    "started_at": 1787061696.105294,
+    "completed_at": 1787061697.585848,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1787062604.944741,
+    "completed_at": 1787062607.408459,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787061870.359352,
+    "completed_at": 1787061872.112396,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786681180.884177,
     "completed_at": 1786681182.29765,
@@ -138,15 +237,6 @@
     "completed_at": 1786681613.748662,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1787059833.317652,
-    "completed_at": 1787059836.113742,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
   },
@@ -174,78 +264,6 @@
     "completed_at": 1787060549.349772,
     "comments": [
       "Great work in viewing and understanding the diff of a specific commit!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-add",
-    "started_at": 1787061696.105294,
-    "completed_at": 1787061697.585848,
-    "comments": [
-      "Great work using git tag to annotate various commits in the repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1787061870.359352,
-    "completed_at": 1787061872.112396,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-push",
-    "started_at": 1787062604.944741,
-    "completed_at": 1787062607.408459,
-    "comments": [
-      "Wonderful! You have successfully synced the local tags with the remote tags!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787063185.22818,
-    "completed_at": 1787063188.234469,
-    "comments": [
-      "Answer for Which files have changed from Jan 09th to Jan 15th? does not contain all of the right answers."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-diff",
-    "started_at": 1787063214.057017,
-    "completed_at": 1787063215.45969,
-    "comments": [
-      "Great work comparing commits in git history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1787064078.589486,
-    "completed_at": 1787064079.98338,
-    "comments": [
-      "Great work traversing the revision history!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1787065826.982078,
-    "completed_at": 1787065828.561966,
-    "comments": [
-      "You have reset the repository to the correct state!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-revert",
-    "started_at": 1787066010.684592,
-    "completed_at": 1787066012.172881,
-    "comments": [
-      "Good work reverting commits!"
     ],
     "status": "Completed"
   }
