@@ -1,5 +1,23 @@
 [
   {
+    "exercise_name": "branch-bender",
+    "started_at": 1787282037.797114,
+    "completed_at": 1787282039.597393,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-forward",
+    "started_at": 1787282775.761335,
+    "completed_at": 1787282777.5242,
+    "comments": [
+      "Great job fast-forward merging only 'with-sally'!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "branch-previous",
     "started_at": 1787281210.77873,
     "completed_at": 1787281212.672939,
@@ -268,21 +286,13 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "branch-bender",
-    "started_at": 1787282037.797114,
-    "completed_at": 1787282039.597393,
+    "exercise_name": "branch-compare",
+    "started_at": 1787722034.992109,
+    "completed_at": 1787722040.439215,
     "comments": [
-      "Great work with merging the branches in order! Try running the HTML files locally!"
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is not right.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is not right."
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-forward",
-    "started_at": 1787282775.761335,
-    "completed_at": 1787282777.5242,
-    "comments": [
-      "Great job fast-forward merging only 'with-sally'!"
-    ],
-    "status": "Completed"
+    "status": "Incomplete"
   }
 ]
